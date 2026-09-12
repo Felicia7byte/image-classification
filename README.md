@@ -13,5 +13,5 @@ Python, Streamlit, Hugging Face Transformers, Pillow, Pre-trained Image Classifi
 Upload Image → Image Classification Model → Prediction → Classification Result
 
 The application uses a pre-trained image classification model through the Hugging Face pipeline API to analyze an uploaded image and predict its category.
-#Live Demo
+# Live Demo
 https://image-classification-pipeline.streamlit.app/
